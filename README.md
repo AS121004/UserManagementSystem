@@ -7,6 +7,7 @@ Backend:
 Node.js and Express.js: Serve as the foundation for the server-side application, handling HTTP requests and routing.
 MySQL Database: Stores user data, including fields like name, email, and status.
 Sequelize ORM: Manages database interactions, providing an abstraction layer over raw SQL queries.
+
 Frontend:
 
 Express-Handlebars: A templating engine that renders dynamic views, allowing the display of user data and forms for CRUD operations.
@@ -28,4 +29,4 @@ Performing CRUD operations and handling HTTP requests.
 Enhancing the frontend with Bootstrap for improved user experience.
 This project serves as a foundational example for building more complex web applications using similar technologies.
 
-For a detailed walkthrough, you can watch the tutorial below:
+
