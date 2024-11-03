@@ -20,8 +20,6 @@ Update User: Allows editing of user details, with changes reflected in the datab
 Delete User: Enables the removal of users from the database.
 Learning Outcomes:
 
-By following this tutorial, you will gain practical experience in:
-
 Setting up a Node.js project with Express.js.
 Configuring a MySQL database and integrating it with a Node.js application using Sequelize.
 Implementing server-side rendering with Express-Handlebars.
